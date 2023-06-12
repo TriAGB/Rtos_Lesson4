@@ -1,0 +1,8 @@
+W:/PortableGit/REPO1/SMT32/Rtos_Lesson4/Core/Src/app_freertos.c:101:13:configureTimerForRunTimeStats	4	static
+W:/PortableGit/REPO1/SMT32/Rtos_Lesson4/Core/Src/app_freertos.c:105:22:getRunTimeCounterValue	8	static
+W:/PortableGit/REPO1/SMT32/Rtos_Lesson4/Core/Src/app_freertos.c:112:6:vApplicationMallocFailedHook	4	static
+W:/PortableGit/REPO1/SMT32/Rtos_Lesson4/Core/Src/app_freertos.c:131:6:MX_FREERTOS_Init	8	static
+W:/PortableGit/REPO1/SMT32/Rtos_Lesson4/Core/Src/app_freertos.c:192:6:StartDefaultTask	32	static
+W:/PortableGit/REPO1/SMT32/Rtos_Lesson4/Core/Src/app_freertos.c:216:6:vRecieverLD2_Func	16	static
+W:/PortableGit/REPO1/SMT32/Rtos_Lesson4/Core/Src/app_freertos.c:233:6:_vReceiverYELLOW_Func	16	static
+W:/PortableGit/REPO1/SMT32/Rtos_Lesson4/Core/Src/app_freertos.c:244:6:Callback01	32	static

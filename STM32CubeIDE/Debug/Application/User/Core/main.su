@@ -1,0 +1,5 @@
+W:/PortableGit/REPO1/SMT32/Rtos_Lesson4/Core/Src/main.c:77:5:main	8	static
+W:/PortableGit/REPO1/SMT32/Rtos_Lesson4/Core/Src/main.c:128:6:SystemClock_Config	88	static
+W:/PortableGit/REPO1/SMT32/Rtos_Lesson4/Core/Src/main.c:172:6:vPrintStringAndNumber	16	static
+W:/PortableGit/REPO1/SMT32/Rtos_Lesson4/Core/Src/main.c:188:6:HAL_TIM_PeriodElapsedCallback	16	static
+W:/PortableGit/REPO1/SMT32/Rtos_Lesson4/Core/Src/main.c:205:6:Error_Handler	4	static,ignoring_inline_asm
